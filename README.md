@@ -27,7 +27,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pengchao2022&theme=dark)
 
 ## 🔧 Recent Projects
-<!-- [这里可以后续添加你的项目链接](https://github.com/pengchao2022/cool-image-gallery-aws-eks.git) -->
+<!-- [https://github.com/pengchao2022/cool-image-gallery-aws-eks.git] -->
 
 ## 📚 Notes
 <!-- 可以链接到你的技术博客或笔记仓库 -->
