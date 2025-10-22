@@ -34,23 +34,18 @@
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- [**ELK Stack on Kubernetes**](https://github.com/pengchao2022/your-elk-project) - Elasticsearch, Logstash, Kibana deployment on K8s
+- [**ELK Stack on Kubernetes**](https://github.com/pengchao2022/elk-aws-eks-project.git) - Elasticsearch, Logstash, Kibana deployment on K8s
   ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- [**GitLab CI/CD Pipeline**](https://github.com/pengchao2022/your-gitlab-project) - Automated deployment pipeline with GitLab
+- [**GitLab CI/CD Pipeline**](https://github.com/pengchao2022/gitlab-sonarqube-eks-project.git) - Automated deployment pipeline with GitLab
   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=gitlab&logoColor=white)
 
 ### 🔧 Infrastructure as Code
-- [**Terraform AWS Infrastructure**](https://github.com/pengchao2022/your-terraform-project) - Infrastructure provisioning with Terraform
+- [**Terraform AWS Infrastructure**](https://github.com/pengchao2022/aws-vpc-for-eks.git) - Infrastructure provisioning with Terraform
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ## 📚 Notes
 <!-- 可以链接到你的技术博客或笔记仓库 -->
 
 ---
-
-<p align="center"> 
-  Vistors<br>
-  <img src="https://profile-counter.glitch.me/pengchao2022/count.svg" />
-</p>
