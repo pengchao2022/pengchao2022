@@ -1,10 +1,13 @@
-# 👋 你好，我是 Pengchao
+# 👋 Hello，My name is Pengchao Ma and Welcome to Github page
 
-## 🚀 关于我
-- 💼 DevOps / 云原生工程师
-- 🌱 目前正在深入学习 Kubernetes 和 AWS
-- 💬 可以咨询我 ELK、GitLab、Linux、容器化相关的问题
-- 📫 如何联系我: [你的邮箱]
+## 🚀 About Me
+- 💼 DevOps / Cloud Engineer
+- 🌱 I am learning and studying Kubernetes and AWS Cloud incluing EC2,VPC,S3,EKS,ELB,Lambda,ECS,Elasticache...
+-  I also using IaC with Terraform to create Infrastruce
+- 🍊 GitLab CI, Jenkins CD, Argo CD, Github actions...
+- 📺 Monitoring System like Prometheus + Grafana, ELK for logging system
+- 💬 Ask me about Cloud and Devops related questions.
+- 📫 Contact me: 18510656167@163.com
 
 ## 🛠 技术栈
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -24,7 +27,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pengchao2022&theme=dark)
 
 ## 🔧 最近项目
-<!-- 这里可以后续添加你的项目链接 -->
+<!-- [这里可以后续添加你的项目链接](https://github.com/pengchao2022/cool-image-gallery-aws-eks.git) -->
 
 ## 📚 学习笔记
 <!-- 可以链接到你的技术博客或笔记仓库 -->
