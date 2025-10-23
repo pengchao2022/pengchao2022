@@ -1,8 +1,8 @@
-# 👋 Hello，My name is Pengchao Ma and Welcome to my github page
+# 👋 Hello，My name is Pengchao and Welcome to my github page
 
 ## 🚀 About Me
 - 💼 DevOps / Cloud Engineer
-- 🌱 I am learning and studying Kubernetes and AWS Cloud incluing EC2,VPC,S3,EKS,ELB,Lambda,ECS,Elasticache...
+- 🌱 I am learning and studying Kubernetes and AWS Cloud incluing EC2,VPC,S3,EKS,ELB,API Gateway,Lambda,ECS,Elasticache...
 -  I also using IaC with Terraform to create Infrastruce
 - 🍊 GitLab CI, Jenkins CD, Argo CD, Github actions...
 - 📺 Monitoring System like Prometheus + Grafana, ELK for logging system
