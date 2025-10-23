@@ -1,4 +1,4 @@
-# 👋 Hello，My name is Pengchao and Welcome to my github page
+# 👋 Hello，My name is Pengchao and welcome to my github page
 
 ## 🚀 About Me
 - 💼 DevOps / Cloud Engineer
