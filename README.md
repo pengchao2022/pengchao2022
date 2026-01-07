@@ -20,11 +20,19 @@
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
 
 ## 📈 GitHub Stats
-![pengchao2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengchao2022&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pengchao2022&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pengchao2022&theme=dark)
+<!-- 使用替代方案，因为 github-readme-stats.vercel.app 服务已暂停 -->
+<p align="center">
+  <!-- GitHub Profile Summary Cards -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pengchao2022&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pengchao2022&theme=github_dark&exclude=HTML,CSS" />
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pengchao2022&theme=dark&hide_border=true" />
+  
+  <!-- GitHub Profile Trophies -->
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pengchao2022&theme=onedark&row=2&column=4&no-frame=true" />
+</p>
 
 ## 🔧 Recent Projects
 
@@ -45,7 +53,14 @@
 ### 🔧 Infrastructure as Code
 - [**Terraform AWS Infrastructure**](https://github.com/pengchao2022/aws-vpc-for-eks.git) - Infrastructure provisioning with Terraform
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+  
 ## 📚 Notes
 <!-- 可以链接到你的技术博客或笔记仓库 -->
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pengchao2022&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/pengchao2022?tab=followers">
+    <img src="https://img.shields.io/github/followers/pengchao2022?style=social" alt="GitHub Followers" />
+  </a>
+</p>
