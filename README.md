@@ -21,17 +21,16 @@
 
 ## 📈 GitHub Stats
 
-<!-- 使用替代方案，因为 github-readme-stats.vercel.app 服务已暂停 -->
 <p align="center">
   <!-- GitHub Profile Summary Cards -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pengchao2022&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pengchao2022&theme=github_dark&exclude=HTML,CSS" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pengchao2022&theme=github_dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pengchao2022&theme=github_dark&exclude=HTML,CSS" alt="Top Languages" />
   
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pengchao2022&theme=dark&hide_border=true" />
+  <!-- GitHub Streak Stats - 使用可访问的替代服务 -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=pengchao2022&theme=dark&hide_border=true" alt="GitHub Streak" />
   
   <!-- GitHub Profile Trophies -->
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pengchao2022&theme=onedark&row=2&column=4&no-frame=true" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pengchao2022&theme=onedark&row=2&column=4&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ## 🔧 Recent Projects
@@ -53,7 +52,7 @@
 ### 🔧 Infrastructure as Code
 - [**Terraform AWS Infrastructure**](https://github.com/pengchao2022/aws-vpc-for-eks.git) - Infrastructure provisioning with Terraform
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-  
+
 ## 📚 Notes
 <!-- 可以链接到你的技术博客或笔记仓库 -->
 
