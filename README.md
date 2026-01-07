@@ -25,12 +25,14 @@
   <!-- GitHub Profile Summary Cards -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pengchao2022&theme=github_dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pengchao2022&theme=github_dark&exclude=HTML,CSS" alt="Top Languages" />
-  
-  <!-- GitHub Streak Stats - 使用可访问的替代服务 -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=pengchao2022&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- GitHub Profile Trophies -->
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pengchao2022&theme=onedark&row=2&column=4&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- 简洁的统计数据 -->
+  <img src="https://img.shields.io/github/followers/pengchao2022?style=for-the-badge&label=Followers&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/pengchao2022?style=for-the-badge&label=Stars&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/pengchao2022?style=for-the-badge&label=Forks&color=green" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/repos/pengchao2022?style=for-the-badge&label=Repos&color=orange" alt="GitHub Repos" />
 </p>
 
 ## 🔧 Recent Projects
